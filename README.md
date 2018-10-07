@@ -11,4 +11,4 @@ Then Type in your __CLI__:</br>
 ### Then Type as follows for your Stock Ticker:
 ``` stock GOOGL ```</br>
 #### NOW SEE THE MAGIC HAPPEN!!
-### NOTE: Please don't send many request at a time the API limit might exceed.
+#### NOTE: Please don't send many request at a time the API limit might exceed.
